@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* centrowanie w pionie */
+    align-items: center;    /* centrowanie w poziomie */
+    height: 100vh;          /* pełna wysokość okna przeglądarki */
+    margin: 0;
+    font-size: 25px;
+    background-color: grey;
+    }
